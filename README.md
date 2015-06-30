@@ -1,2 +1,1 @@
-# test
-test for centos to connect github
+if it can connect to github
